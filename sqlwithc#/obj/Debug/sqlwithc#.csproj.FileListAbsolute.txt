@@ -1,0 +1,7 @@
+C:\Users\aligu\source\repos\sqlwithc#\sqlwithc#\bin\Debug\sqlwithc#.exe.config
+C:\Users\aligu\source\repos\sqlwithc#\sqlwithc#\bin\Debug\sqlwithc#.exe
+C:\Users\aligu\source\repos\sqlwithc#\sqlwithc#\bin\Debug\sqlwithc#.pdb
+C:\Users\aligu\source\repos\sqlwithc#\sqlwithc#\obj\Debug\sqlwithc#.csproj.AssemblyReference.cache
+C:\Users\aligu\source\repos\sqlwithc#\sqlwithc#\obj\Debug\sqlwithc#.csproj.CoreCompileInputs.cache
+C:\Users\aligu\source\repos\sqlwithc#\sqlwithc#\obj\Debug\sqlwithc#.exe
+C:\Users\aligu\source\repos\sqlwithc#\sqlwithc#\obj\Debug\sqlwithc#.pdb
