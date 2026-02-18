@@ -112,10 +112,54 @@ namespace sqlwithc_
             //connection4.Close();
             #endregion
 
+            #region ürün silme
 
+            //int productid;
+            //Console.WriteLine("silinecek ürün kodunu giriniz: ");
+            //productid=int.Parse(Console.ReadLine());
+            //SqlConnection connection5 = new SqlConnection("Data Source=localhost; initial Catalog=EgitimKampiDb; integrated security=true");
+            //connection5.Open();
+            //SqlCommand komut5 = new SqlCommand("Delete From TblProduct where ProductId=@productid  ",connection5);
+            //komut5.Parameters.AddWithValue("@productid",productid );
+            //komut5.ExecuteNonQuery();
+            //connection5.Close();
+            //Console.WriteLine("silindi.");
 
+            #endregion
 
+            #region ürün güncelleme
 
+            //int id,newprice;
+            //Console.WriteLine("güncellenecek ürün kodunu giriniz: ");
+            //id = int.Parse(Console.ReadLine());
+            //Console.WriteLine("ürünün yeni fiyatını giriniz: ");
+            //newprice = int.Parse(Console.ReadLine());
+
+            //SqlConnection connection6 = new SqlConnection("Data Source=localhost; initial Catalog=EgitimKampiDb; integrated security=true");
+            //connection6.Open();
+            //SqlCommand komut6 = new SqlCommand("Update TblProduct Set  ProductPrice=@newprice where ProductId=@id ", connection6);
+            //komut6.Parameters.AddWithValue("@newprice", newprice);
+            //komut6.Parameters.AddWithValue("@id", id);
+            //komut6.ExecuteNonQuery();
+            //connection6.Close();
+            //Console.WriteLine("Urun fıyatı basarıyla guncellendi.");
+
+            #endregion
+
+            #region kategori silme
+
+            //int kategoriid;
+            //Console.WriteLine("silinecek kategorinin ID'sini giriniz: ");
+            //kategoriid = int.Parse(Console.ReadLine());
+            //SqlConnection connection7 = new SqlConnection("Data Source=localhost; initial Catalog=EgitimKampiDb; integrated security=true");
+            //connection7.Open();
+            //SqlCommand komut7 = new SqlCommand("Delete From TblCategory where CategoryId=@kategoriid  ", connection7);
+            //komut7.Parameters.AddWithValue("@kategoriid", kategoriid);
+            //komut7.ExecuteNonQuery();
+            //connection7.Close();
+            //Console.WriteLine("kategori silindi.");
+
+            #endregion
 
 
         }
